@@ -1,0 +1,11 @@
+# sbt
+target/
+
+# Intellij
+.idea/
+.idea_modules/
+
+# Eclipse
+.classpath
+.project
+.settings
